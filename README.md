@@ -17,4 +17,4 @@ Simple app using newsApi and tableView
 // 11.  Change numberOfSections = 1, numberOfRows = arrData.count
 // 12.  Add cell.textLabel!.text = arrData[indexPath.row].title
 
-Thats all I do here.
+Thats all I do here..
